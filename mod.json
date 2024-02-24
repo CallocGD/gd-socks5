@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.19",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "calloc.gdsocks5",
+	"name": "gdsocks5",
+	"developer": "Calloc",
+	"description": "A Mod to communicate to robtop's servers over proxies"
+}
