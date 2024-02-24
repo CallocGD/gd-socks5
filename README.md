@@ -7,6 +7,7 @@ Inspired by OnionDash
 threat actors onto gd note that the gd's overall security is very strong. 
 - Please do not use these tools to evade comment bans Or Other Nefarious Purposes.
 - I wrote this mainly as a tool for unblocking or getting around Cisco firewalls.
+- This Mod is not done yet, We need to override all the HTTP Parts and functions to make this work.
 
 ## Proxy Not Connecting Or Can't Find a Proxy to Use
 I wrote a [python script](https://github.com/CallocGD/Probe) for hunting down 
